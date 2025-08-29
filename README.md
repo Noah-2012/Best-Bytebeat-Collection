@@ -4,6 +4,8 @@ Good composers are these:
  - [HTML5 Bytebeat](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjwpI-RsbCPAxWg1AIHHR7OAPcQFnoECAoQAQ&url=https%3A%2F%2Fgreggman.com%2Fdownloads%2Fexamples%2Fhtml5bytebeat%2Fhtml5bytebeat.html&usg=AOvVaw0KftetoqPGa4kz8kTZd6cb&opi=89978449)
  - [Bytebeat Composer](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiMjYLRsbCPAxXzxQIHHYy8H_oQFnoECAoQAQ&url=https%3A%2F%2Fdollchan.net%2Fbytebeat%2F&usg=AOvVaw1GY2G0XSwmM10IiTTTgDRM&opi=89978449)
 
+In V2 there will be the Frequence thing but now the most used Frequences are 11kHz and 44kHz.
+
 # Infix (Bytebeat)
 
 ## Small Bytebeat (< 256 Byte)
